@@ -32,7 +32,7 @@ body{
     display: none;
 }
 
-button.checked .icon{
+.button.checked .icon{
     display: flex;
 }
 
